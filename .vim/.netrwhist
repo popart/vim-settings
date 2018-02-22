@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/Andrew/test'
+let g:netrw_dirhist_2='/Library/LaunchDaemons'
+let g:netrw_dirhist_3='/Users/andrew/api/tools/peloton/peloton.egg-info'
+let g:netrw_dirhist_4='/Users/andrew/api/tests/data/models'
+let g:netrw_dirhist_5='/Users/andrew/speed'
+let g:netrw_dirhist_6='/Users/andrew/api/webapp'
